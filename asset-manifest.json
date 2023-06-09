@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ICTAK_Assignment2/static/css/main.073c9b0a.css",
+    "main.js": "/ICTAK_Assignment2/static/js/main.b70e8826.js",
+    "static/js/787.b8fa26a9.chunk.js": "/ICTAK_Assignment2/static/js/787.b8fa26a9.chunk.js",
+    "static/media/logo.svg": "/ICTAK_Assignment2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ICTAK_Assignment2/index.html",
+    "main.073c9b0a.css.map": "/ICTAK_Assignment2/static/css/main.073c9b0a.css.map",
+    "main.b70e8826.js.map": "/ICTAK_Assignment2/static/js/main.b70e8826.js.map",
+    "787.b8fa26a9.chunk.js.map": "/ICTAK_Assignment2/static/js/787.b8fa26a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b70e8826.js"
+  ]
+}
